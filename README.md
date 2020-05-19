@@ -11,6 +11,6 @@ The diagram above shows all of the functions that are included to build this Pyt
 
 
 ## Main() Function Design 
-![](static/maindesign)
+![](static/maindesign.jpeg)
 
 The diagram above shows the logic of how the functions nested within main() function operates.  
